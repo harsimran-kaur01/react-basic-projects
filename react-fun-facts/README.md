@@ -19,5 +19,3 @@ Built to practice React basics such as components, props, JSX, and styling.
 - CSS  
 
 ---
-
-## 📂 Project Structure
